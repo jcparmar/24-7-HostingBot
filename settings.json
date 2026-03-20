@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BEASTCRAFT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "BEASTCRAFT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "beastcraft22652.mcsh.io",
+    "port": 13915,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "DO NOT MIND MY MESSAGES",
         "I like to play Minecraft!"
       ]
     },
