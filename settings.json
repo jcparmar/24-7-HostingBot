@@ -29,11 +29,13 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 250,
       "messages": [
         "I'm a regular player",
         "DO NOT MIND MY MESSAGES",
-        "I like to play Minecraft!"
+        "I like to play Minecraft!",
+        "Its nice to play with friends, isn't it?",
+        "So how is your day or night going?"
       ]
     },
     "chat-log": true,
@@ -62,7 +64,7 @@
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
